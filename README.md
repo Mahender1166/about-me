@@ -22,4 +22,4 @@ I have used some of these references when I have faced any trouble regarding the
 - [for initial github using](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/#awesm=~owWaKbpGqnC0Vd)
  
 ## Contributors
-I am Mahender Reddy Surkanti pursuing my masters at Northwest majoring in ACS.As I love my bike :bike: alot I am including this image.
+I am Mahender Reddy Surkanti pursuing my masters at Northwest majoring in ACS.As I love my bike :coffee: :bike: alot I am including this image.
