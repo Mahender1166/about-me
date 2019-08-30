@@ -1,7 +1,7 @@
 # about-me
 ## Repository Links
-- [source repository]()
-- [hosted page]()
+- [source repository](https://github.com/Mahender1166/about-me/edit/master/README.md)
+- [hosted page](https://mahender1166.github.io/about-me/)
 ## About
 This repo is mainly used to explain about the tools and documentation that could be useful for everyone learning web development.
 ## Recommended Tools
