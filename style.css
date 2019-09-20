@@ -1,0 +1,51 @@
+.image1
+{
+    width: 15em;
+    height: 15em;
+    border-radius: 50%;
+    float:center;
+
+}
+
+
+.center-align {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+body {
+    padding-top: 5rem;
+    background-image: url("wall.jpg");
+  }
+  
+  body, html {
+    height: 100%;
+    color: orangered
+    
+  }
+  
+  .video-wrapper {
+    width: 100%;
+   
+  }
+  
+  section {
+    margin: 1rem;
+    padding: 2rem;
+    background-color: lightblue;
+    border-radius: 2em;
+    color:black;
+    
+  }
+  
+  .bgimg {
+    
+    height: 100%;
+    position: relative;
+    opacity: 0.85;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; /* fixed in viewport */
+  }
