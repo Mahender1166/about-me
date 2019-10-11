@@ -16,7 +16,8 @@
 
 body {
     padding-top: 5rem;
-    background-image: url("wall.jpg");
+    background: cornflowerblue;
+    /* background-image: url("wall.jpg"); */
     
     height: 100%;
     position: relative;
@@ -53,4 +54,13 @@ body {
 
   img {
     width: 100%;
+  }
+  #d1
+  {
+    display: grid;
+    border : 2px solid black;
+    border-radius: 15px;
+    align-content: center;
+    justify-content: center;
+    
   }
