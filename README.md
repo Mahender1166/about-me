@@ -27,3 +27,8 @@ I have used some of these references when I have faced any trouble regarding the
 I am Mahender Reddy Surkanti pursuing my masters at Northwest majoring in ACS.As I love my bike :bike: alot I am including this image.
 
 ![my fav image](https://raw.githubusercontent.com/Mahender1166/about-me/master/fav_image.jpeg)
+
+
+## useful links that helped me
+- [vue help](https://vuejs.org/v2/guide/)
+- [json object](https://jsonplaceholder.typicode.com/)
